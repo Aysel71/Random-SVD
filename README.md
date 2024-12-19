@@ -111,11 +111,4 @@ We welcome contributions to improve this project! To contribute:
    ```
 5. Open a Pull Request.
 
----
 
-## **License**
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Let me know if you need help generating the `requirements.txt` or creating example scripts!
